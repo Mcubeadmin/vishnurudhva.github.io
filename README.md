@@ -1,1 +1,1 @@
-Mujhaid is a coder king
+# Mujahid is a coder king
